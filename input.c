@@ -1,3 +1,4 @@
+/*corynne*/
 main()
 {
 	char x;
